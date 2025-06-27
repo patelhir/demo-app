@@ -13,9 +13,8 @@ Simple demo app which lists Merchants and Manage notes
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-laravel-project.git
-cd your-laravel-project
-
+git clone https://github.com/patelhir/demo-app.git
+cd demo-app
 
 ##  Install Dependencies
 npm install && npm run dev
